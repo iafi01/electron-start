@@ -1,2 +1,3 @@
 # electron-start
-Installa Node e fai npm install
+Installa Node <br>
+bash make_electron.sh
